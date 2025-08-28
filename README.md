@@ -1,2 +1,5 @@
-# Thakur-Raaj-APNetworking
-AP Networking Portfolio (2025-2026)
+# AP Networking Digital Portfolio
+
+Welcome to my documentation for the AP Networking course. 
+
+👉 Check out my website at https://raajthakur1.github.io/AP_Networking
